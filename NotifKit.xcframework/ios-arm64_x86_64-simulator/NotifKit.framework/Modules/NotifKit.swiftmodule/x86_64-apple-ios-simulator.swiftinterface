@@ -17,16 +17,24 @@ public struct NKTipPresentationData {
 }
 public struct NKTipper {
   @available(iOS, unavailable)
+  @available(macOS, unavailable)
   public static let scaleStyle: NotifKit.NKTipper
   @available(iOS, unavailable)
+  @available(macOS, unavailable)
   public static let slideStyle: NotifKit.NKTipper
   @available(watchOS, unavailable)
+  @available(macOS, unavailable)
   public static let tinyStyle: NotifKit.NKTipper
   @available(watchOS, unavailable)
   public static let largeStyle: NotifKit.NKTipper
+  public static var automaticStyle: NotifKit.NKTipper {
+    get
+  }
   @available(iOS, unavailable)
+  @available(macOS, unavailable)
   public init<AppearenceBackground>(_ appearance: NotifKit.NKTipAppearence<AppearenceBackground>) where AppearenceBackground : NotifKit._NKBackground
   @available(iOS, unavailable)
+  @available(macOS, unavailable)
   public init(transition: SwiftUICore.AnyTransition, @SwiftUICore.ViewBuilder customView: @escaping (NotifKit.NKTipPresentationData) -> some View)
   @available(watchOS, unavailable)
   public init(style: NotifKit.NKTipper.TipPresentationStyle)
@@ -34,6 +42,7 @@ public struct NKTipper {
   @_disfavoredOverload public func present(text: Swift.String, symbol: Swift.String, duration: Foundation.TimeInterval = 3.0)
   public func present(_ data: NotifKit.NKTipPresentationData, duration: Foundation.TimeInterval = 3.0)
   public enum TipPresentationStyle {
+    @available(macOS, unavailable)
     case tiny
     case large
     public static func == (a: NotifKit.NKTipper.TipPresentationStyle, b: NotifKit.NKTipper.TipPresentationStyle) -> Swift.Bool
@@ -44,6 +53,7 @@ public struct NKTipper {
   }
 }
 @available(iOS, unavailable)
+@available(macOS, unavailable)
 public struct NKTipAppearence<Background> where Background : NotifKit._NKBackground {
   public let background: Background
   public let transition: NotifKit.NKTipAppearence<Background>.PresentationTransition
@@ -104,8 +114,10 @@ public struct NKShapeBackground<ShapeType> : NotifKit._NKBackground where ShapeT
 extension NotifKit.NKTipper.TipPresentationStyle : Swift.Equatable {}
 extension NotifKit.NKTipper.TipPresentationStyle : Swift.Hashable {}
 @available(iOS, unavailable)
+@available(macOS, unavailable)
 extension NotifKit.NKTipAppearence.TextConfiguration.TruncationMode : Swift.Equatable {}
 @available(iOS, unavailable)
+@available(macOS, unavailable)
 extension NotifKit.NKTipAppearence.TextConfiguration.TruncationMode : Swift.Hashable {}
 extension NotifKit.NKCompatibleMaterialBackground.CompatibleMaterial : Swift.Equatable {}
 extension NotifKit.NKCompatibleMaterialBackground.CompatibleMaterial : Swift.Hashable {}
