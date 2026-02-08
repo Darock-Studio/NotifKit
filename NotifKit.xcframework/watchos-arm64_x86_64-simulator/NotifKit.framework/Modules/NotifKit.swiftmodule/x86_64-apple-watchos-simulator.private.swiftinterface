@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target x86_64-apple-watchos9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name NotifKit
+// swift-compiler-version: Apple Swift version 6.2.4 effective-5.10 (swiftlang-6.2.4.1.4 clang-1700.6.4.2)
+// swift-module-flags: -target x86_64-apple-watchos9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name NotifKit
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.4
 @_exported import NotifKit
 import OSLog
 import Swift
@@ -17,9 +18,11 @@ public struct NKTipPresentationData {
 public struct NKTipper {
   @available(iOS, unavailable)
   @available(macOS, unavailable)
+  @available(visionOS, unavailable)
   public static let scaleStyle: NotifKit.NKTipper
   @available(iOS, unavailable)
   @available(macOS, unavailable)
+  @available(visionOS, unavailable)
   public static let slideStyle: NotifKit.NKTipper
   @available(watchOS, unavailable)
   @available(macOS, unavailable)
@@ -31,12 +34,15 @@ public struct NKTipper {
   }
   @available(iOS, unavailable)
   @available(macOS, unavailable)
+  @available(visionOS, unavailable)
   public init<AppearenceBackground>(_ appearance: NotifKit.NKTipAppearence<AppearenceBackground>) where AppearenceBackground : NotifKit._NKBackground
   @available(iOS, unavailable)
   @available(macOS, unavailable)
+  @available(visionOS, unavailable)
   public init(transition: SwiftUICore.AnyTransition, @SwiftUICore.ViewBuilder customView: @escaping (NotifKit.NKTipPresentationData) -> some View)
   @_spi(_internal) @available(iOS, unavailable)
   @available(macOS, unavailable)
+  @available(visionOS, unavailable)
   public init(@SwiftUICore.ViewBuilder _tipContentView: @escaping (NotifKit.NKTipPresentationData) -> some View)
   @available(watchOS, unavailable)
   public init(style: NotifKit.NKTipper.TipPresentationStyle)
@@ -63,12 +69,15 @@ public struct NKTipper {
 }
 @available(iOS, unavailable)
 @available(macOS, unavailable)
+@available(visionOS, unavailable)
 public struct NKTipAppearence<Background> where Background : NotifKit._NKBackground {
   public let background: Background
   public let transition: NotifKit.NKTipAppearence<Background>.PresentationTransition
   public let animation: SwiftUICore.Animation?
   public let textConfiguration: NotifKit.NKTipAppearence<Background>.TextConfiguration
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(background: Background, transition: NotifKit.NKTipAppearence<Background>.PresentationTransition, animation: SwiftUICore.Animation? = nil, textConfiguration: NotifKit.NKTipAppearence<Background>.TextConfiguration = .init())
+  #endif
   @_spi(_internal) public func _makeContent(with data: NotifKit.NKTipPresentationData) -> some SwiftUICore.View
   
   public enum PresentationTransition {
@@ -80,7 +89,9 @@ public struct NKTipAppearence<Background> where Background : NotifKit._NKBackgro
     public let truncation: NotifKit.NKTipAppearence<Background>.TextConfiguration.TruncationMode
     public let font: UIKit.UIFont
     public let color: SwiftUICore.Color
+    #if compiler(>=5.3) && $NonescapableTypes
     public init(truncation: NotifKit.NKTipAppearence<Background>.TextConfiguration.TruncationMode = .scale, font: UIKit.UIFont = .boldSystemFont(ofSize: 14), color: SwiftUICore.Color? = nil)
+    #endif
     public enum TruncationMode {
       case ellipses
       case scale
@@ -130,9 +141,11 @@ extension NotifKit.NKTipper.TipPresentationStyle : Swift.Hashable {}
 @_spi(_internal) extension NotifKit._NKTipperView : Swift.Sendable {}
 @available(iOS, unavailable)
 @available(macOS, unavailable)
+@available(visionOS, unavailable)
 extension NotifKit.NKTipAppearence.TextConfiguration.TruncationMode : Swift.Equatable {}
 @available(iOS, unavailable)
 @available(macOS, unavailable)
+@available(visionOS, unavailable)
 extension NotifKit.NKTipAppearence.TextConfiguration.TruncationMode : Swift.Hashable {}
 extension NotifKit.NKCompatibleMaterialBackground.CompatibleMaterial : Swift.Equatable {}
 extension NotifKit.NKCompatibleMaterialBackground.CompatibleMaterial : Swift.Hashable {}

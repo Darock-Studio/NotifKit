@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		QbzzUmzL2qDXBdym/Znc1fiFwjg=
+		N5jyCp4gWgjhiDNFDjPYiKf6tGU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -22,14 +22,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RVqCHR0+yl8ZnquOKq3Ioa+utJAaZtn4hm1aakXcITI=
+			/fHi2zFdVnuOGybCwpJim3KzmWwnw6whBDu9ko7gHBo=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X9KSsYOSUQHbmzZv6AT28O8ZmuzWHsS2DVrIKxrXDG8=
+			S7/BOjgoTIMghJlSkWsoxfrJSsN/TqrrNIDwZVcgx5w=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-macos.abi.json</key>
@@ -43,28 +43,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			etJQibEpXiLRbPglDul/vg1RNbONS8dw0uSxfRuujrw=
+			1YNOaR1M/kzASPxqp0uEI3O8XSGx7driJKjJQs7Wu90=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q87Ei8nm7fH0iDFX020bRRihT3we5PEMI/buVlTsZg0=
+			NPfvbW5neiL4B8Xe0cSRCC8Rd1L80FAqVacJkqZxdfo=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yxnaWp9T57+ZkWtb2rNIyJ7/krJapHil9Zb2E7uHflI=
+			5S5zHfQSZBMh5IS0hzIF90ZUD2EToJNsI0+u99neb4A=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+LrrbxNy5vkNJyHqo0ZBOCSduabpeELxN+RbsV2IBDo=
+			u6sIV8wsFIWHUuNfi6Fxy67gjaCNql0FFuZlqDwRG3s=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-macos.abi.json</key>
@@ -78,28 +78,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xlQsYe2I+sMu57jIGxbU2UPoglrDSWq9LjcebCjD6yQ=
+			U6+BLCIgzC5Xo8DLCyZ6oAxB1S6pHQpL7GhZBvRust0=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-macos.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cq5J+6NrRPy1xZ1CqO+MvMzgRFXpPWQmipqwVecc5kk=
+			TsXYCguo/G7+1wZdyjpLgEaEl7s91R5UnCmkewVeMJE=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-macos.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g/N+7cCJJwMObYm4nfuVgCc1Fx8JGTaUHew2+RyLldA=
+			cyPV+rSEdJFWFLtDZmdVPWjJMBviT82Usa+xiPGYMHU=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5MS/pY5m2Yiie/TYPPO9ANyMXwufrF9wCqWa7C17WIs=
+			hHpodUbrTSslakS/hNBACT7cJE717X6pcZOZ9QjSEOM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -113,7 +113,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TcqomHs3NDCQSW46IOCXVWZEDkDpJcnkwl5/fG1FYGI=
+			Ro+OTiqVxcJsANzyULgbS0D1xlypVegA1GJbuZiBaeY=
 			</data>
 		</dict>
 	</dict>
