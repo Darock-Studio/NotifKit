@@ -10,11 +10,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FZaRfD2T7mhP3XRsItzEU3QReeU=
+		gWfXlSRfjvECrfL59E+bbDOduEs=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/Project/arm64-apple-xros.swiftsourceinfo</key>
 		<data>
-		/w5d0P7tdBLlJvovdeoZhKRDT4k=
+		W7hDCy43M9nFXFumqG2fz4OeOjA=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros.private.swiftinterface</key>
 		<data>
-		Yckl6hU9Vm7mw/leJzmERUiI6eI=
+		2LvkpFaiaJz1jxDO7NfNIyHqlUA=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros.swiftdoc</key>
 		<data>
-		j7wfcHdorthYsRWHLuxwtLJ51NI=
+		2ByylUHXLl6SdwBuabZRbHP11mk=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros.swiftinterface</key>
 		<data>
-		t30hIZZLOjoq8jlRqghppA7y1ts=
+		OlZ1a+FuAzTqxY4BMmHnqTRLX2c=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros.swiftmodule</key>
 		<data>
-		M5BeXLyG5vdG2ctEjEN1LmPkbug=
+		zbzq6GngbabmgLdfvYTLZTPeiTk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +54,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			auvPq9CJt9w4c0BRP/6kIpumm22tttdsFUWzj8zP/n0=
+			WHPdkbOLmiDp+qGt0X6M2trBbxH/wclnAQ/df7//ANw=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros.abi.json</key>
@@ -68,28 +68,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UesoHfxjNHcOo5lI+EXpA36JtGWsjKuh7mMryKXj51Y=
+			jgwJAValRYDlZHdQSvEhOEcvZlnogUQwvFT7nWc17Fo=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4x0nYRMfMYXVdIfbbB6FLGcghfzPUKr2FlZ9xEkU0Hc=
+			cq8sZdL1flj96flp7SoRQl2cZ/sNtsZ/orWYaeYrCcI=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Szl3HnACJFucOiK+7s6I6XKyHI7iG799nKJNJQv1tX8=
+			TkAFN11PZIi6HyFEBAOcrqzCxjO4GLI8eH/XCU9fpI0=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eLELgy3DJZlNpapSoSRcBstmGPq4fMGZcGdIJMJcISw=
+			LPcioRrq1bX+i3GsFGk/Rq2ZLHRE2yGAxoQY+f1P4b8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

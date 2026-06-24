@@ -4,25 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		zuQK5L36Ov1+Br83XCjdDm72Dxk=
-		</data>
 		<key>Headers/NotifKit.h</key>
 		<data>
 		kKvrQm2jyDocdCIo1qZ+s82FR8w=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		x8EpMSk2n4KRpqPaYG2OYE7rdqA=
+		jAOm+JLC4K9PlVjSWuL+xQwQ7FA=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		aZQ/DR+dad9XFetPMrYph0yWv98=
+		qchJtooukJBQpHDOk79nmtESYA8=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		HufTbrsrWco8HyHXQNzOZACQWXY=
+		KL5A7gwSMtU+0rZWe8W58fzYQ+8=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -30,19 +26,19 @@
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		+Fp1OJAjcl15YmrEcXm7kNrDBQE=
+		lc1wWInVXoC0xN1eo9NmRAEgrhg=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		vrvwUPwy7KqZ4db7jfZBS6i8ubE=
+		TI61ytH6FmonX5APc/apkNlthvQ=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		FLWi/M6Eatp3YGkYFofwcsr3MCE=
+		8P//HSNSmwjR6FvsvBZCkR03F3M=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		lbPr5i1P4MU4gAakXS3YBTI0RkY=
+		DFffquPr1KquBdOE7rRTRjKhB80=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -50,19 +46,19 @@
 		</data>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		ymSlksPVR8tNdDeuxS7jNbt4o04=
+		b0cThGoNKpe4vPAD1t1pC2hZFcs=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		cPSMeqXX9z5/kUP5Qs2eQmmZO6s=
+		yjkkjj80b0YTqnDyGX4HD8hBnk8=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		T9Tig5h/b0GVAAQrjWai0eQdto4=
+		DU4F+mDzsPu6bTBy9OjPQLtTgrU=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		32eRm0H6a18GkL6WYtioAJi4quw=
+		PEfHgHrZDCzVrU0Sg8+yEGPLA8s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -82,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pbfmzwV3sKm6D6cSpUtaxW+EEJLtLUCGfF8p6kD+8pU=
+			E0CGVMJg7dCDMmRQiPb5Qhi5v3DkPQbVuDNVqYrvSIs=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			69U2r49BXh9vPloW3ZjjaexIJoQ37jE7cCu5YuHX3VE=
+			cX/uNh5IkBb8qDXlzIwz9jCuvXc7vTEqyLHi7vl7hIc=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
@@ -103,28 +99,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nox1yYOG/zv60rhvtJCNSuUo22mqG1U91NbOmTB0tdg=
+			0EmLrF32miFJ5Y4dC88ZNX8zJ/7JdUIZ86nKCCPkXdE=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IF5C9oxLJTlVRWQO9xOh2x9iiqZszvNPSPYsQheAQTI=
+			T8DjEvGRxH9i9VgWYhc2iAN0ZRho31CCZJsTorGXKIE=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AKUSoOZn2AmFUqCLFh2f5uKzq3tlJ90y3VZYEQ7pvgc=
+			4QI2J51ZHPB/AhZgVHln04x4jqL520ub2s3BVUKVHv8=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mJi3gmHfLWSsUKdu2Xa6nfMqIYKmUP5bf4IXNLqxO3k=
+			JrdnJHZ2q3vlPAPB4zep9K+ld/bEbSYvFXbwwApbcqQ=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
@@ -138,28 +134,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KQ70fNjKc1Ktg5v8cVpEdfssByZUVCovl3NLgmGkMR4=
+			eSBI5NmvuO/l1lnYz5MOpEf4dbWf20RQDC0dJMZ+xXs=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v1aY1XK40permaz7qLGt9NeSif0+2KtJtF9W5hqFkOQ=
+			fpff57fm7xVS3ldFb6NQbwkgSN6fSfcdbjhlQJ7q8OE=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wgvCVtYt584E1sV6+kb/EJJ9JPdVDOqdEEAYVQxOcwU=
+			Oo0Vw0yhYNtMg/I+acoAPMvGZ9+tgOJbNMDp1eo8sAo=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SrKnKBsPQvKuQZZWLNYdIQwNzOV3pLmpPYJ1VM4n+zo=
+			+boaRtcVg0psqYz6WAthKPFfErHVDOe7UZn0PXr3Jlw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

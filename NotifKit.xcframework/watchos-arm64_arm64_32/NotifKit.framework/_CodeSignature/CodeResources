@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nKyRYB59L6vtAzHLHOay6E/SD2o=
+		SfM1zHwFzY8NY4ST+jjfc9uFbrg=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/Project/arm64-apple-watchos.swiftsourceinfo</key>
 		<data>
-		wKP6S5vbZRgfmfitgJKVAPKrSqQ=
+		Ph4iFgTD711yXlbJk4yllmTXYao=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/Project/arm64_32-apple-watchos.swiftsourceinfo</key>
 		<data>
-		UIMSAKbmtvJkdTCf1gkkwm9Jydk=
+		t4mf95qY/R+SaKWQpYQwqn/WRRA=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<data>
-		tPzwr2LJMiFSrCMUzFYPztkaexA=
+		XzrMjFNqM8/4nFBhUM/H1l9iHxM=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos.swiftdoc</key>
 		<data>
-		D4VqCr+1eZeVwAS9u5183hEvRfw=
+		KMVBzNkeTAQLTioHp3C/APMTZYg=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos.swiftinterface</key>
 		<data>
-		e/vaft0i8lDS1AdaKDNCj5RfzuY=
+		Fb8hTJcIyK+DZuloRNMlh37ifL8=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos.swiftmodule</key>
 		<data>
-		kUdPKzSCcAQCbIqVwzu0InNda4k=
+		N/i93Hiu64k4ZXA8obhz5Ghtwik=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<data>
@@ -46,19 +46,19 @@
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<data>
-		YsVTddi+kA+W+nVIaeDKyWoMDmw=
+		OpnfdgXcYbiUZq/fDvPVuEfTpHk=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64_32-apple-watchos.swiftdoc</key>
 		<data>
-		4MGlULSNoRwlhfuXPFXPFG5iENY=
+		fSmVAOz3UYOPKA1LFdbYa5bWWgA=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64_32-apple-watchos.swiftinterface</key>
 		<data>
-		h3GoHsWEijrEpNWSjzgiYSJ256I=
+		um/1r+fg8z69LVXjKqvGT7LaA6w=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64_32-apple-watchos.swiftmodule</key>
 		<data>
-		ADNsMl3axLf3CFBKN7ohCrMrwRg=
+		UnJdLj02L1+AjTi4NndHSdeHnT0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -82,22 +82,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wKP6S5vbZRgfmfitgJKVAPKrSqQ=
+			Ph4iFgTD711yXlbJk4yllmTXYao=
 			</data>
 			<key>hash2</key>
 			<data>
-			1vYsiBJ367g2c2fW5hCo1XCdUHYe5+EjoK0hIlfx8HA=
+			nwdv5f4iqDg+K2qh/+k3D8zE3XkgxoLaSRJ8TIA43co=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/Project/arm64_32-apple-watchos.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UIMSAKbmtvJkdTCf1gkkwm9Jydk=
+			t4mf95qY/R+SaKWQpYQwqn/WRRA=
 			</data>
 			<key>hash2</key>
 			<data>
-			LrhHCsfXw8MwILrCQuHe4r0txsrH+Ni5PivajDDNFho=
+			Bk7fcHeKtBbnsMZt+nqM+2qLS0hX/J5PolR5sLiKJtE=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos.abi.json</key>
@@ -115,44 +115,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tPzwr2LJMiFSrCMUzFYPztkaexA=
+			XzrMjFNqM8/4nFBhUM/H1l9iHxM=
 			</data>
 			<key>hash2</key>
 			<data>
-			fAYWrYUvTb79/1MVOK+o2gE/cz9UBq19VH8kXdSzw3c=
+			Jy6FKsIzoPY5H4ICXE6M3LffF7S++VfqXY+DF/T/GCM=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D4VqCr+1eZeVwAS9u5183hEvRfw=
+			KMVBzNkeTAQLTioHp3C/APMTZYg=
 			</data>
 			<key>hash2</key>
 			<data>
-			5rtikDsW3g4XGcfMZoZo28pBquIs3sPjL69Zcb8koGY=
+			LKw+cLCXK0H3zGzEwpA4tSViHUQdGe9zIFlXuq2spvM=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e/vaft0i8lDS1AdaKDNCj5RfzuY=
+			Fb8hTJcIyK+DZuloRNMlh37ifL8=
 			</data>
 			<key>hash2</key>
 			<data>
-			03YmCyTKhcWAHyRcd/F7TLHEGpkIjgrtymVh6BLuDCg=
+			xvvD9gpvjZx7ryQFnUVL4hRW4dHUhUGyRXqW/HtnUNM=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-watchos.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kUdPKzSCcAQCbIqVwzu0InNda4k=
+			N/i93Hiu64k4ZXA8obhz5Ghtwik=
 			</data>
 			<key>hash2</key>
 			<data>
-			htorL2Dd7A2oRK60TRSVAINWkdOwdEOt8W+fRs4ETa8=
+			ZJSiuG3R7saVGOT+iNx58mkgGsksqXFxylZJRz8CROA=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64_32-apple-watchos.abi.json</key>
@@ -170,44 +170,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YsVTddi+kA+W+nVIaeDKyWoMDmw=
+			OpnfdgXcYbiUZq/fDvPVuEfTpHk=
 			</data>
 			<key>hash2</key>
 			<data>
-			bVGYqigAaQXWVexsU7Bk4vRTDGwvDe0MFLw42GdV9s0=
+			j+myjX9R9uCcoFJgikQobXwkq2HMAwLuuNb21KpXcLA=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64_32-apple-watchos.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4MGlULSNoRwlhfuXPFXPFG5iENY=
+			fSmVAOz3UYOPKA1LFdbYa5bWWgA=
 			</data>
 			<key>hash2</key>
 			<data>
-			X8JU4nSMyUXQd4cRqaCRg9oaM0Z6vDjQtZnNmNnc3OQ=
+			1kpaRPPWGwYA2XwJhiIlLc+ygqG3jtRMBKkbjvdNV2s=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64_32-apple-watchos.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h3GoHsWEijrEpNWSjzgiYSJ256I=
+			um/1r+fg8z69LVXjKqvGT7LaA6w=
 			</data>
 			<key>hash2</key>
 			<data>
-			bTD9GzKcBXV7bFoHQi9iLVR2igtDDmWClnIVNgphgFg=
+			lNGPc+R8g48fCvffkqMJKMPa6QwNnBpPHsubnTSVICQ=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64_32-apple-watchos.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ADNsMl3axLf3CFBKN7ohCrMrwRg=
+			UnJdLj02L1+AjTi4NndHSdeHnT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			jArZuiZ49bRKESJBeSM70yhoEy8w+NuTUUfiwiiiheA=
+			97OlblLAV5wgJC3pxxXi95jfwl3wwPisShedZn8AC78=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

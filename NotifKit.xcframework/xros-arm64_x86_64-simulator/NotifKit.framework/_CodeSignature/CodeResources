@@ -4,25 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		wDVtdIqSJb/AviM2M75435t8CXk=
-		</data>
 		<key>Headers/NotifKit.h</key>
 		<data>
 		kKvrQm2jyDocdCIo1qZ+s82FR8w=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KtmnJP5l9z4k2J1d2tr6jtaVbC8=
+		NoweUiSspKaEX0gJxNTzyf45dqY=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/Project/arm64-apple-xros-simulator.swiftsourceinfo</key>
 		<data>
-		662ErIAeiRAPSUc2pil+9fNG+qE=
+		r7OcdBaP33symMxRFksWH3F51KM=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/Project/x86_64-apple-xros-simulator.swiftsourceinfo</key>
 		<data>
-		1zeVUUgrzJO7aRhZsHg8O7r7MyA=
+		rE5CBUvT4bwp1rodkhcuTFYWTvU=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
@@ -30,19 +26,19 @@
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
-		3yqpjzShXetT8g6eEw67gdG3BkM=
+		E8Nar7dTAkq1rwinus8lZuRWu4c=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
 		<data>
-		4/QpJHck0S7rooW3uTEnb0MWUFM=
+		FVHRF220kUM4sR1/XpgvB29+5gY=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
 		<data>
-		vyBDZMTcbeFZksVDUy4KlTps3Fg=
+		rYuZ6FveooHLXXat6cQ9EqQqPME=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		LLwsK1uqpYYaiKGUmviiejn+8wI=
+		9S82K+GQeNNJm8Cr+9zIRzwbuMg=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
@@ -50,19 +46,19 @@
 		</data>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
-		x+RFVHUQ4lkYZAKiAilwpj06OSo=
+		XVM3IiVo4EkSjGPFJ8tk8Rgakh8=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
 		<data>
-		65ScgVoT5c9qxhUZud0c9KbnDAo=
+		56iTau1YiG6nQ04YL6xl+3Ci8Lw=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
 		<data>
-		iF3Yk7abWNZihyXqbv6A0JbkLGE=
+		LzvQVg1BCdMP/LKV60hPCZ0mJLg=
 		</data>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		L0vtf4LVJpTD+ir5+fxqZgtsOcI=
+		kaXHrhQLnfs0IUC9juRVry401Xc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -82,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qbTTj7bOw5nfa7ebqvH9YuqSiUKw7Xj8mc3VMZP5LKo=
+			GSNLft9NNlM7TggV6qMyRuG0J044KCf8AQFRCBqM5Kg=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/Project/x86_64-apple-xros-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lIVQNXuKcje9ndiI2eC62dUNFYlt3C2g3uUSgAIjJWA=
+			ssCU9wc3URfPUE3cvtAbCLql7OKdWj11yLScSTCBjh8=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
@@ -103,28 +99,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rVXADd5nCgl1aDR5Y7TSe4lyE3at0lWq2lVBbaZB7sg=
+			AVvyFyDNG3nfBS2WZBB2PKVzePDDOzLPJ5zrho8tiow=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hjg/LbLZJ0PdbNB4o9wH7CwFSqu9jd1adL958Ru3+oQ=
+			/ZBKoAAeAZQRRa/JNpabVwQiiaUk6HRczH8WMGOyXOo=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GmCuRPsSjZyMVZc495ZWG89nuVxK+OpjDp64FJN9/FY=
+			gP7xc/YiDtzZeM+n5Sm+C/skzBXjLhNU9PEysTbJDv8=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P9emGKc55oap5bqbNyfB49dOhijpiBaA9UNsWaSNa4k=
+			bIfYWITTHYmwlZO7SUMGjPbnJeG9dpM1pCrdkDpm6yQ=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
@@ -138,28 +134,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wQUBQTPikIUsJQDkJLdFVCxur8v6y/UeYIssqqRhA0c=
+			yrpeNCFfBSqMOVUxI6KPoep3A+lAY/zV5HUQWigMrdc=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-xros-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9qcOG+Dfddlf8a+Y86jrlR5uxD2hOoehSYHHeesfY/I=
+			akCVOtmuI3BNSod+1qpXmbIFUG4vs/jhvHSNELeLALg=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-xros-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5Pbgl8KtgQSY7/ovmjllSs5HZwWgwAGIwVZlR01cBuE=
+			o3OI5kQZ9AYU+N1ZZU/oViBB9sCMC7A27PsdcxZGGKw=
 			</data>
 		</dict>
 		<key>Modules/NotifKit.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6D+8A/hdTw52CQO58ZNSbpXvu7hUGdFsOeabJSmKJEQ=
+			sMpIXiDVX87G2sYCBEWHxWrbzmZwa/5EYR+RjDi1/9Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
