@@ -12,6 +12,6 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
-        .binaryTarget(name: "NotifKit", url: "https://github.com/darock-studio/notifkit/releases/download/1.0.0/NotifKit.xcframework.zip", checksum: "8c6b7c7e0e108cf87772d0316be42138e6230a0944c8b72d346b1a1c8d4b21bf")
+        .binaryTarget(name: "NotifKit", url: "https://github.com/darock-studio/notifkit/releases/download/1.0.1/NotifKit.xcframework.zip", checksum: "f5f769fd778c59cf5c04a4fc9c00e94c8b2e87ed0d0d88fc1b390ebf1e0efc9f")
     ]
 )
